@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mpfitness/static/css/main.f855e6bc.css",
+    "main.js": "/mpfitness/static/js/main.70f0cec7.js",
+    "index.html": "/mpfitness/index.html",
+    "main.f855e6bc.css.map": "/mpfitness/static/css/main.f855e6bc.css.map",
+    "main.70f0cec7.js.map": "/mpfitness/static/js/main.70f0cec7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.70f0cec7.js"
+  ]
+}
