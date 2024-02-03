@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/mpfitness/static/css/main.98c94d3a.css",
-    "main.js": "/mpfitness/static/js/main.ef5af500.js",
+    "main.css": "/mpfitness/static/css/main.64905e0c.css",
+    "main.js": "/mpfitness/static/js/main.218a6502.js",
+    "static/media/About Us - Image.svg": "/mpfitness/static/media/About Us - Image.b9adccca9d017535b179bbbf822381f6.svg",
+    "static/media/models.png": "/mpfitness/static/media/models.d2febe662b7561ace5e7.png",
+    "static/media/24 Icon.svg": "/mpfitness/static/media/24 Icon.3edf965686c9f22158ba4966ddd5d665.svg",
     "static/media/Logo.svg": "/mpfitness/static/media/Logo.5c14638699ad9a667946b5e198b30198.svg",
     "index.html": "/mpfitness/index.html",
-    "main.98c94d3a.css.map": "/mpfitness/static/css/main.98c94d3a.css.map",
-    "main.ef5af500.js.map": "/mpfitness/static/js/main.ef5af500.js.map"
+    "static/media/Safty Icon.svg": "/mpfitness/static/media/Safty Icon.1810182fe1ee43c2d77933685e760eae.svg",
+    "static/media/Trainer Icon.svg": "/mpfitness/static/media/Trainer Icon.5d48ab43613cd7137e50fbe0c24959c0.svg",
+    "main.64905e0c.css.map": "/mpfitness/static/css/main.64905e0c.css.map",
+    "main.218a6502.js.map": "/mpfitness/static/js/main.218a6502.js.map"
   },
   "entrypoints": [
-    "static/css/main.98c94d3a.css",
-    "static/js/main.ef5af500.js"
+    "static/css/main.64905e0c.css",
+    "static/js/main.218a6502.js"
   ]
 }
