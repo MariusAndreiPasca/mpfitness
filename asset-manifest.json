@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mpfitness/static/css/main.fe1f6466.css",
-    "main.js": "/mpfitness/static/js/main.7c05894e.js",
+    "main.css": "/mpfitness/static/css/main.3061d335.css",
+    "main.js": "/mpfitness/static/js/main.ca4bde0d.js",
     "static/media/gymVideo.mp4": "/mpfitness/static/media/gymVideo.810d342b35c66141fa61.mp4",
     "static/media/About Us - Image.svg": "/mpfitness/static/media/About Us - Image.b9adccca9d017535b179bbbf822381f6.svg",
     "static/media/frame male.svg": "/mpfitness/static/media/frame male.18b79e4b396402fd7e9e424a07773913.svg",
@@ -16,11 +16,11 @@
     "static/media/card decoration.svg": "/mpfitness/static/media/card decoration.0228048263f7de8ad56489dd55da4301.svg",
     "static/media/uncheck icon.svg": "/mpfitness/static/media/uncheck icon.69d1fd4810f4db4c78753ebb18b48c77.svg",
     "static/media/check icon.svg": "/mpfitness/static/media/check icon.5847544e98fda98a0c080b734bfbb214.svg",
-    "main.fe1f6466.css.map": "/mpfitness/static/css/main.fe1f6466.css.map",
-    "main.7c05894e.js.map": "/mpfitness/static/js/main.7c05894e.js.map"
+    "main.3061d335.css.map": "/mpfitness/static/css/main.3061d335.css.map",
+    "main.ca4bde0d.js.map": "/mpfitness/static/js/main.ca4bde0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe1f6466.css",
-    "static/js/main.7c05894e.js"
+    "static/css/main.3061d335.css",
+    "static/js/main.ca4bde0d.js"
   ]
 }
