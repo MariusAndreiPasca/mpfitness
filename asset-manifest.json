@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/mpfitness/static/css/main.64905e0c.css",
-    "main.js": "/mpfitness/static/js/main.218a6502.js",
+    "main.css": "/mpfitness/static/css/main.fe1f6466.css",
+    "main.js": "/mpfitness/static/js/main.7c05894e.js",
+    "static/media/gymVideo.mp4": "/mpfitness/static/media/gymVideo.810d342b35c66141fa61.mp4",
     "static/media/About Us - Image.svg": "/mpfitness/static/media/About Us - Image.b9adccca9d017535b179bbbf822381f6.svg",
+    "static/media/frame male.svg": "/mpfitness/static/media/frame male.18b79e4b396402fd7e9e424a07773913.svg",
+    "static/media/frame female2.svg": "/mpfitness/static/media/frame female2.87bd389b9835475775750763ed866689.svg",
     "static/media/models.png": "/mpfitness/static/media/models.d2febe662b7561ace5e7.png",
+    "static/media/frame female1.svg": "/mpfitness/static/media/frame female1.363df3e59cf6fd66adc4e59d191a0860.svg",
     "static/media/24 Icon.svg": "/mpfitness/static/media/24 Icon.3edf965686c9f22158ba4966ddd5d665.svg",
     "static/media/Logo.svg": "/mpfitness/static/media/Logo.5c14638699ad9a667946b5e198b30198.svg",
     "index.html": "/mpfitness/index.html",
     "static/media/Safty Icon.svg": "/mpfitness/static/media/Safty Icon.1810182fe1ee43c2d77933685e760eae.svg",
     "static/media/Trainer Icon.svg": "/mpfitness/static/media/Trainer Icon.5d48ab43613cd7137e50fbe0c24959c0.svg",
-    "main.64905e0c.css.map": "/mpfitness/static/css/main.64905e0c.css.map",
-    "main.218a6502.js.map": "/mpfitness/static/js/main.218a6502.js.map"
+    "static/media/card decoration.svg": "/mpfitness/static/media/card decoration.0228048263f7de8ad56489dd55da4301.svg",
+    "static/media/uncheck icon.svg": "/mpfitness/static/media/uncheck icon.69d1fd4810f4db4c78753ebb18b48c77.svg",
+    "static/media/check icon.svg": "/mpfitness/static/media/check icon.5847544e98fda98a0c080b734bfbb214.svg",
+    "main.fe1f6466.css.map": "/mpfitness/static/css/main.fe1f6466.css.map",
+    "main.7c05894e.js.map": "/mpfitness/static/js/main.7c05894e.js.map"
   },
   "entrypoints": [
-    "static/css/main.64905e0c.css",
-    "static/js/main.218a6502.js"
+    "static/css/main.fe1f6466.css",
+    "static/js/main.7c05894e.js"
   ]
 }
