@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mpfitness/static/css/main.2aea3953.css",
-    "main.js": "/mpfitness/static/js/main.213a2c6e.js",
+    "main.css": "/mpfitness/static/css/main.cbd3b469.css",
+    "main.js": "/mpfitness/static/js/main.1a86f63e.js",
     "static/media/gymVideo.mp4": "/mpfitness/static/media/gymVideo.810d342b35c66141fa61.mp4",
     "static/media/frame male.svg": "/mpfitness/static/media/frame male.0a7e0c1d899d5e4af80492172a238a6c.svg",
     "static/media/frame female2.svg": "/mpfitness/static/media/frame female2.87bd389b9835475775750763ed866689.svg",
@@ -12,11 +12,11 @@
     "static/media/card decoration.svg": "/mpfitness/static/media/card decoration.0228048263f7de8ad56489dd55da4301.svg",
     "static/media/uncheck icon.svg": "/mpfitness/static/media/uncheck icon.69d1fd4810f4db4c78753ebb18b48c77.svg",
     "static/media/check icon.svg": "/mpfitness/static/media/check icon.5847544e98fda98a0c080b734bfbb214.svg",
-    "main.2aea3953.css.map": "/mpfitness/static/css/main.2aea3953.css.map",
-    "main.213a2c6e.js.map": "/mpfitness/static/js/main.213a2c6e.js.map"
+    "main.cbd3b469.css.map": "/mpfitness/static/css/main.cbd3b469.css.map",
+    "main.1a86f63e.js.map": "/mpfitness/static/js/main.1a86f63e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2aea3953.css",
-    "static/js/main.213a2c6e.js"
+    "static/css/main.cbd3b469.css",
+    "static/js/main.1a86f63e.js"
   ]
 }
